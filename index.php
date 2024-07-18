@@ -115,7 +115,7 @@
             <i class="ri-shopping-bag-4-line"></i>
             <a href="https://arioveisa.github.io/Project0123_KedaiKopi/">E-Commerce</a>
             <p>
-              Developed full-featured e-commerce platform with secure payments.
+              Developer full-featured e-commerce platform with secure payments.
             </p>
           </div>
           <div class="item">
