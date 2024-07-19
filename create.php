@@ -1,5 +1,5 @@
 <?php
-header("Location: result.php");
+header("Location: formContacs.php");
 
 include "conn.php";
 

@@ -106,7 +106,7 @@
         <h2>Projects Showcase</h2>
         <p class="info">
           Take a look at some of my notable projects, showcasing my ability to
-          design and develop effective web solutions.
+          design and devlop effective web solutions.
         </p>
         <button>Explore my projects <i class="ri-arrow-right-line"></i></button>
 
